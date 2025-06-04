@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purushotamsharma" alt="purushotamsharma" /></a> </p>
 
-- 🔭 I’m currently Purusing MCA **I am TWS Community Builder**
+- 🔭 I’m currently working as a DevOps Engineer and  **I am TWS Community Builder**
 
 - 🌱 I’m currently **learning DevOps Tools Such as Docker, Jenkins, Git & GitHub..**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/purushotamsharma/**
 
-- 📄 Know about my experiences [https://purushotam.me/](https://purushotam.me/)
+- 📄 Know about my experiences [https://purushotam.devopsguy.in/](https://purushotam.devopsguy.in/)
 
 - ⚡ Fun fact **I'm a Cloud DevOps Enthusiast, Tech Blogger, Volleyball Lover, Communicator and Community contributor**
 
