@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=PURUSHOTAM%20SHARMA&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20DevOps%20Engineer%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=center&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=🚀+Building+Next-Gen+Infrastructure;⚡+3%2B+Years+of+DevOps+Excellence;🌟+Scaling+Teams+%26+Systems;☁️+Multi-Cloud+Architecture+Expert" alt="Dynamic Bio" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=🚀+Freelance+DevOps+Engineer;⚡+Helping+Startups+Scale+in+Cloud;🌟+Building+Something+Crazy;☁️+3%2B+Years+of+Excellence" alt="Dynamic Bio" />
 
 <br/>
 
@@ -35,47 +35,19 @@
 
 <div align="center">
 
-## <img src="https://fonts.googleapis.com/css2?family=Calligraffitti&display=swap" style="font-family: 'Calligraffitti', cursive; font-size: 32px; color: #667eea;">About Me</img> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+## <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&weight=700&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=300&lines=About+Me+✨" alt="About Me" />
 
 </div>
+
+<div align="center">
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 20px; margin: 10px;">
+<div align="center">
 
-```typescript
-const purushotam = {
-  role: "Senior DevOps Engineer 👨‍💻",
-  company: "Pietech Technology 🏢",
-  location: "Surat, Gujarat, India 🇮🇳",
-  experience: "3+ years ⭐",
-  
-  expertise: [
-    "☁️  Cloud Native Architecture",
-    "🔄  CI/CD Pipeline Design", 
-    "🤖  Infrastructure Automation",
-    "🐳  Container Orchestration",
-    "📊  Monitoring & Observability"
-  ],
-  
-  currentFocus: {
-    learning: ["🔐 Advanced K8s Security", "☁️  Multi-Cloud"],
-    building: ["🚀 Scalable Platforms", "🛠️  DevOps Tools"],
-    sharing: ["📝 Technical Content", "👥 Community Building"]
-  },
-  
-  achievements: {
-    deploymentSpeed: "80% faster ⚡",
-    costOptimization: "30% reduction 💰", 
-    monitoring: "60% better detection 📊",
-    reliability: "40% improvement 🛡️"
-  },
-  
-  passions: ["🏐 Volleyball", "📚 Continuous Learning", "🌟 Innovation"]
-};
-```
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" alt="Developer Animation"/>
 
 </div>
 
@@ -83,61 +55,125 @@ const purushotam = {
 
 <div align="center">
 
-### 🎯 **What Drives Me**
+### 🎯 **My Mission**
+<img src="https://img.shields.io/badge/🚀%20Helping%20Startups%20Scale-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" />
+
+### 💡 **Building**  
+<img src="https://img.shields.io/badge/⚡%20Something%20Crazy-00D4AA?style=for-the-badge&logo=lightning&logoColor=white" />
+
+### 🌟 **Expertise**
+<img src="https://img.shields.io/badge/☁️%20Cloud%20Native%20Architecture-4ECDC4?style=for-the-badge&logo=cloud&logoColor=white" />
+
+### 📍 **Location**
+<img src="https://img.shields.io/badge/🇮🇳%20Surat,%20Gujarat,%20India-667EEA?style=for-the-badge&logo=location&logoColor=white" />
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### ⚡ **Quick Stats**
+
+</div>
+
+```yaml
+👨‍💻 Role: Senior DevOps Engineer & Freelancer
+🎯 Mission: Scaling Startups in the Cloud
+📅 Experience: 3+ Years of Innovation
+🌟 Passion: Building Revolutionary Solutions
+
+🚀 Core Skills:
+  - Cloud Architecture Design
+  - CI/CD Pipeline Mastery  
+  - Infrastructure Automation
+  - Container Orchestration
+  - Monitoring & Analytics
+
+💼 Current Focus:
+  - Kubernetes Security
+  - Multi-Cloud Strategies
+  - Startup Growth Consulting
+  - Community Building
+
+🏆 Achievements:
+  ⚡ 80% Faster Deployments
+  💰 30% Cost Reduction
+  📊 60% Better Monitoring
+  🛡️ 40% Enhanced Reliability
+```
+
+<div align="center">
+
+### 🎪 **Fun Facts**
+<img src="https://img.shields.io/badge/🏐%20Volleyball%20Player-FF9500?style=flat-square&logo=volleyball&logoColor=white" />
+<img src="https://img.shields.io/badge/📚%20Continuous%20Learner-9B59B6?style=flat-square&logo=book&logoColor=white" />
+<img src="https://img.shields.io/badge/☕%20Coffee%20Addict-8B4513?style=flat-square&logo=coffee&logoColor=white" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🌟 **What I Do Best**
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/BUILD-🔧-667eea?style=for-the-badge&labelColor=1a1a2e" />
-<br/><sub><strong>Robust Infrastructure</strong></sub>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/BUILD-667EEA?style=for-the-badge&logo=tools&logoColor=white" />
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" />
+<br/>
+<sub><strong>Scalable Cloud Infrastructure</strong></sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/OPTIMIZE-🚀-764ba2?style=for-the-badge&labelColor=1a1a2e" />
-<br/><sub><strong>Performance & Costs</strong></sub>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/AUTOMATE-764BA2?style=for-the-badge&logo=automation&logoColor=white" />
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" />
+<br/>
+<sub><strong>CI/CD Pipeline Magic</strong></sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/LEAD-👥-667eea?style=for-the-badge&labelColor=1a1a2e" />
-<br/><sub><strong>TWS Community</strong></sub>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/SCALE-FF6B6B?style=for-the-badge&logo=trending-up&logoColor=white" />
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="60" />
+<br/>
+<sub><strong>Startup Growth Strategies</strong></sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/SHARE-📝-764ba2?style=for-the-badge&labelColor=1a1a2e" />
-<br/><sub><strong>Knowledge & Ideas</strong></sub>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/MONITOR-4ECDC4?style=for-the-badge&logo=monitoring&logoColor=white" />
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" />
+<br/>
+<sub><strong>System Observability</strong></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/SHARE-00D4AA?style=for-the-badge&logo=share&logoColor=white" />
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" />
+<br/>
+<sub><strong>Knowledge & Community</strong></sub>
 </td>
 </tr>
 </table>
-
-</div>
-
-</td>
-<td width="40%" valign="top">
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation"/>
-
-<br/><br/>
-
-<div style="background: linear-gradient(45deg, #667eea, #764ba2); border-radius: 15px; padding: 15px; color: white; text-align: center;">
-
-**💡 Philosophy**
-
-*"Automating today's challenges to unlock tomorrow's possibilities"*
 
 </div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🏐%20Fun%20Fact-Volleyball%20Enthusiast-FF6B6B?style=for-the-badge&labelColor=1a1a2e" />
+<div align="center">
 
-<img src="https://img.shields.io/badge/☕%20Coffee%20Lover-Fueling%20Innovation-8B4513?style=for-the-badge&labelColor=1a1a2e" />
-
-<img src="https://img.shields.io/badge/🌱%20Always%20Learning-Growth%20Mindset-00D4AA?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://readme-quotes-api.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=Orbitron" alt="Quote" />
 
 </div>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
