@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=PURUSHOTAM%20SHARMA&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20DevOps%20Engineer%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=center&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=🚀+Freelance+DevOps+Engineer;⚡+Helping+Startups+Scale+in+Cloud;🌟+Building+Something+Crazy;☁️+3%2B+Years+of+Excellence" alt="Dynamic Bio" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=🚀+Technical Product Manager + Engineering/Cloud background;⚡+Helping+Startups+Scale+in+Cloud;🌟+Building+Something+Crazy;☁️+3%2B+Years+of+Excellence" alt="Dynamic Bio" />
 
 <br/>
 
